@@ -111,8 +111,28 @@ body{
     justify-content: space-between;
     align-items: center;
     margin-top: 128px;
-    padding-left: 130px;
-    padding-right: 130px;
+    padding-left: 155px;
+    padding-right: 155px;
     height: 628px;
     text-align: center;
 }
+.instagram_section{
+    margin: 40px 130px 0px 130px;
+    height: 628px;
+    text-align: center;
+    background-color:  #FFF;
+}
+.instagram_section_container{
+    display: flex;
+    gap: 10px;
+    align-items: center; 
+}
+
+.instagram4_column img{
+    width: 261px;
+    height: 300px; 
+    vertical-align: bottom;
+    margin-top: 20px;
+}
+
+
