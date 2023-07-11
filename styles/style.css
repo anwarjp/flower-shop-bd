@@ -118,7 +118,7 @@ body{
 }
 .instagram_section{
     margin: 40px 130px 0px 130px;
-    height: 628px;
+    height: 530px;
     text-align: center;
     background-color:  #FFF;
 }
@@ -134,5 +134,22 @@ body{
     vertical-align: bottom;
     margin-top: 20px;
 }
-
+.latest_deal_email{
+    margin: 0px 130px 30px 130px;
+    text-align: center;
+    background-image: url("../images/Rectangle9.png");
+    padding: 140px;
+    background-repeat: no-repeat;
+}
+.inputEmail{
+    padding: 10px 15px;
+    border: none;
+    width: 380px;
+    border-radius: 4px;
+}
+.btn{
+    padding: 6px 15px;
+    border-radius: 3px;
+    margin-left: 10px;
+}
 
