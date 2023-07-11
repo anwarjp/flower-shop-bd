@@ -70,7 +70,7 @@ body{
     margin: 48px 130px 0px 130px;
     gap: 10px;
 }
-.three_column_container p{
+.info{
     color: #272727;
     font-size: 24px;
     font-style: normal;
@@ -90,5 +90,16 @@ body{
     padding: 10px 10px 0px 10px;
     vertical-align: bottom;
     
+}
+.optional_sec_container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 48px 130px 0px 130px;
+    gap: 10px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    height: 220px;
+    text-align: center;
 }
 
