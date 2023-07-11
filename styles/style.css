@@ -135,7 +135,7 @@ body{
     margin-top: 20px;
 }
 .latest_deal_email{
-    margin: 0px 130px 30px 130px;
+    margin: 0px 130px 70px 130px;
     text-align: center;
     background-image: url("../images/Rectangle9.png");
     padding: 140px;
@@ -151,5 +151,27 @@ body{
     padding: 6px 15px;
     border-radius: 3px;
     margin-left: 10px;
+}
+.footer_container{
+    display: flex;
+    background-color: #111010;
+    height: 220px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.footer p{
+    color: rgba(255, 255, 255, 0.90);
+
+}
+.footer small{
+color: rgba(255, 255, 255, 0.40);
+    
+}
+
+.highlighted_text{
+    color: #E55473;
+    font-weight: bolder;
 }
 
