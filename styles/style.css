@@ -102,4 +102,17 @@ body{
     height: 220px;
     text-align: center;
 }
+.noStyle{
+    text-decoration: none;
+}
 
+.hotdeal_section_container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 128px;
+    padding-left: 130px;
+    padding-right: 130px;
+    height: 628px;
+    text-align: center;
+}
