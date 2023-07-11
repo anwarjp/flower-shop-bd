@@ -111,7 +111,7 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-top: 128px;
+    margin-top: 100px;
     padding-left: 155px;
     padding-right: 155px;
     height: 628px;
@@ -176,3 +176,47 @@ color: rgba(255, 255, 255, 0.40);
     font-weight: bolder;
 }
 
+.new_production_container{
+    margin: 100px auto;
+}
+
+.new_production_container h2{
+    text-align: center;
+}
+
+.row{
+     margin: 20px 131px;
+    
+}
+
+.rowTop{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+
+.price{
+    color: #646363;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.rowTop_container{
+    background-color: rgba(229, 84, 115, 0.10);
+}
+.content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 14px;
+}
+.content_img{
+    padding: 10px;
+}
+
+.content a{
+    color: rgb(10, 113, 113);
+}
+.fa-cart-shopping{
+    font-size: 50px;
+}
