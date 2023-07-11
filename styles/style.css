@@ -8,6 +8,7 @@ body{
     font-family: 'Lato', sans-serif;
     font-family: 'Open Sans', sans-serif;
     font-family: 'Roboto', sans-serif;
+    width: 1349px;
 }
 
 .title{
@@ -80,7 +81,7 @@ body{
 }
 .three_column{
     background: rgba(167, 33, 98, 0.15);
-    padding: 110px 60px 0 70px;
+    padding: 110px 66px 0 70px;
     border-radius: 300px 300px 0px 0px;
     margin-bottom: 20px;
 }
@@ -124,7 +125,7 @@ body{
 }
 .instagram_section_container{
     display: flex;
-    gap: 10px;
+    gap: 15px;
     align-items: center; 
 }
 
@@ -148,7 +149,7 @@ body{
     border-radius: 4px;
 }
 .btn{
-    padding: 6px 15px;
+    padding: 5px 12px;
     border-radius: 3px;
     margin-left: 10px;
 }
